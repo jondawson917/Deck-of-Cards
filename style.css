@@ -1,0 +1,15 @@
+.container {
+    margin-top: 80px;
+    position: relative;
+  }
+  
+  .container > img {
+    position: absolute;
+    left: 30px;
+    right: 20px;
+    margin: auto;
+  }
+  body {
+    background-color: green;
+    text-align: center;
+  }
